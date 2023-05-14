@@ -4,7 +4,7 @@
  * binary_tree_delete - short description
  * @tree: a binary_tree_t *data type variable
  *
- * Return: type is void 
+ * Return: type is void
  */
 
 void binary_tree_delete(binary_tree_t *tree)
